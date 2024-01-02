@@ -1,6 +1,8 @@
+//Trabajo en equipo realizado para la materia Algoritmos y Estructura de Datos 2
+//Integrantes: Dante Waisman, Alvaro Petriz Otaño, Tatiana Grinspan y Santiago Dunayevich
 package aed;
 public class SistemaCNE {
-    // Completar atributos privados
+    
     private String[] partidos;
     private String[] distritos;
     private int[] diputadosPorDistrito;
