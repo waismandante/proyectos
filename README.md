@@ -1,1 +1,1 @@
-En este repositorio, voy a ir subiendo trabajos tanto de la facultaad como proyectos personales a modo de portfolio.
+En este repositorio, voy a ir subiendo de la facultad o de mi trabajo que me hayan resultado interesante, y proyectos personales modo de portfolio.
