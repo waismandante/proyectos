@@ -1,1 +1,1 @@
-En este repositorio, voy a ir subiendo de la facultad o de mi trabajo que me hayan resultado interesante, y proyectos personales modo de portfolio.
+Este repositorio es una recopilación de proyectos personales y académicos y laborales relacionados con el análisis de datos, el aprendizaje automático y la visualización de datos.
